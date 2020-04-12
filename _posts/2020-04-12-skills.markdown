@@ -1,0 +1,29 @@
+---
+layout: page
+title:  "Skills"
+excerpt_separator:  <!--more-->
+---
+
+### Big Data Technologies
+* Spark, SparkSQL, Spark Streaming, Hadoop MapReduce
+* Flume, Kafka
+* Sqoop
+* Hive, Impala
+* Solr
+* Kudu
+
+### Programming Languages
+* Scala, Java, Kotlin
+
+### Frameworks
+* Spring, Hibernate
+* Akka, Play (academic experience)
+
+### Front end
+* CSS3, HTML5, Bootstrap, JavaScript, jQuery
+
+### Other
+* Maven, Gradle, Sbt
+* Jenkins, Nexus, Git
+* Agile Methodologies, Scrum
+

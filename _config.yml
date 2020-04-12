@@ -19,20 +19,33 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Naomi García Langa
+tagline: Big Data developer
 email: naomi.glanga@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Perfectionist and eager to learn Big Data developer.
   Also interested in back-end development.
+
+#  I have been in Big Data since 2017 as a Data Engineer using technologies such
+#  as Spark, Hive, Flume and Kafka. I am looking forward to learning new
+#  skills and growing as a professional
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+
 github_username:  naomigl
+linkedin_username: naomi-garcia-langa
 logo: assets/img/profile.jpg
 
 # Build settings
-theme: jekyll-theme-minimal
+paginate: 5
+
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+#sidebar_home_link:  true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
