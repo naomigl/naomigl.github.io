@@ -1,3 +1,11 @@
+/** Mobile **/
+#sidebar .profile-pic { display: none; }
+
+.home #sidebar .profile-pic { display: block; }
+
+/** Tablet / Desktop view **/
+@media (min-width: 49rem) { #sidebar .profile-pic { display: block; } }
+/** Custom variables **/
 /* Most of these imports are derived from https://github.com/poole/poole. Designed, built, and released under MIT license by @mdo.
 */
 * { box-sizing: border-box; }

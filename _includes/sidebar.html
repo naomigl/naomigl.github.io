@@ -1,7 +1,8 @@
 <div id="sidebar">
     <header>
-        <div>
-            <img src="assets/img/profile.jpg" alt="profile-pic">
+
+        <div class="profile-pic">
+            <img src="{{ "assets/img/profile.jpg" | relative_url}}" alt="profile-pic">
         </div>
 
         <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
@@ -11,8 +12,9 @@
         {% endunless %}
         {{ site.title }}
         </a>
-    </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
+        </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+        <p class="lead">{{ site.description }}</p>
+
     </header>
     {% include sidebar-nav-links.html %}
 
