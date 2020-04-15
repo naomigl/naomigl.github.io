@@ -2,25 +2,42 @@
 # Jekyll needs front matter for SCSS files
 ---
 
-/** Mobile **/
-#sidebar .profile-pic {
-     display: none;
-}
-.home #sidebar .profile-pic {
-     display: block;
-}
-
-/** Tablet / Desktop view **/
-@media (min-width: 49rem) {
-    // Undo CSS for mobile
-    #sidebar .profile-pic {
-        display: block;
-    }
-}
-
 /** Custom variables **/
 $sidebar-bg-color: #8e8c86;
 $sidebar-width: 25rem !default;
 $large-font-size: 1.1rem !default;
 
 @import "hydeout";
+
+/** Overwrite and add css **/
+
+/** Generic / Mobile **/
+#sidebar .profile-pic {
+     display: none;
+}
+.home #sidebar .profile-pic {
+     display: block;
+}
+.lead {
+    font-size: 1.15rem;
+    font-weight: 300;
+}
+.home #sidebar .site-title {
+    font-size: 3.25rem;
+}
+
+/** Tablet / Desktop view **/
+
+@media (min-width: 49rem) {
+
+    // Undo CSS for mobile
+    #sidebar .profile-pic {
+        display: block;
+    }
+    #sidebar .site-title {
+        font-size: 2.2rem;
+    }
+    .home #sidebar .site-title {
+        font-size: 2.2rem;
+    }
+}
