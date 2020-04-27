@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-15T18:41:44+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Naomi García Langa</title><subtitle>Hi! I'm Naomi and I'm a Big Data Engineer. I'm always eager to learn something new and want my work to make a positive impact on the world.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-27T22:07:13+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Naomi García Langa</title><subtitle>Hi! I'm Naomi and I'm a Big Data Engineer. I'm always eager to learn something new and want my work to make a positive impact on the world.
 Please, contact me if that sounds interesting to you!</subtitle><entry><title type="html">Skills</title><link href="http://localhost:4000/2020/04/12/skills.html" rel="alternate" type="text/html" title="Skills" /><published>2020-04-12T00:00:00+02:00</published><updated>2020-04-12T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/12/skills</id><content type="html" xml:base="http://localhost:4000/2020/04/12/skills.html">&lt;h3 id=&quot;big-data-technologies&quot;&gt;Big Data Technologies&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Spark, SparkSQL, Spark Streaming, Hadoop MapReduce&lt;/li&gt;
+  &lt;li&gt;Spark, SparkSQL, Spark Streaming&lt;/li&gt;
   &lt;li&gt;Flume, Kafka&lt;/li&gt;
   &lt;li&gt;Sqoop&lt;/li&gt;
   &lt;li&gt;Hive, Impala&lt;/li&gt;
-  &lt;li&gt;Solr&lt;/li&gt;
-  &lt;li&gt;Kudu&lt;/li&gt;
+  &lt;li&gt;Solr, Kudu&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;programming-languages&quot;&gt;Programming Languages&lt;/h3&gt;
@@ -30,7 +29,11 @@ Please, contact me if that sounds interesting to you!</subtitle><entry><title ty
   &lt;li&gt;Maven, Gradle, Sbt&lt;/li&gt;
   &lt;li&gt;Jenkins, Nexus, Git&lt;/li&gt;
   &lt;li&gt;Agile Methodologies, Scrum&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Big Data Technologies Spark, SparkSQL, Spark Streaming, Hadoop MapReduce Flume, Kafka Sqoop Hive, Impala Solr Kudu Programming Languages Scala, Java, Kotlin Frameworks Spring, Hibernate Akka, Play (academic experience) Front end CSS3, HTML5, Bootstrap, JavaScript, jQuery Other Maven, Gradle, Sbt Jenkins, Nexus, Git Agile Methodologies, Scrum</summary></entry><entry><title type="html">Languages</title><link href="http://localhost:4000/2020/04/11/languages.html" rel="alternate" type="text/html" title="Languages" /><published>2020-04-11T00:00:00+02:00</published><updated>2020-04-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/11/languages</id><content type="html" xml:base="http://localhost:4000/2020/04/11/languages.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Work Experience</title><link href="http://localhost:4000/2020/04/10/workexperience.html" rel="alternate" type="text/html" title="Work Experience" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/10/workexperience</id><content type="html" xml:base="http://localhost:4000/2020/04/10/workexperience.html">&lt;p&gt;&lt;em&gt;Feb. 2019 - Now&lt;/em&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Big Data Technologies Spark, SparkSQL, Spark Streaming Flume, Kafka Sqoop Hive, Impala Solr, Kudu Programming Languages Scala, Java, Kotlin Frameworks Spring, Hibernate Akka, Play (academic experience) Front end CSS3, HTML5, Bootstrap, JavaScript, jQuery Other Maven, Gradle, Sbt Jenkins, Nexus, Git Agile Methodologies, Scrum</summary></entry><entry><title type="html">Languages</title><link href="http://localhost:4000/2020/04/11/languages.html" rel="alternate" type="text/html" title="Languages" /><published>2020-04-11T00:00:00+02:00</published><updated>2020-04-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/11/languages</id><content type="html" xml:base="http://localhost:4000/2020/04/11/languages.html">&lt;h4 id=&quot;english-c1&quot;&gt;English c1&lt;/h4&gt;
+&lt;p&gt;Cambridge Advanced Certified&lt;/p&gt;
+&lt;h4 id=&quot;french-b1&quot;&gt;French B1&lt;/h4&gt;
+&lt;p&gt;Official Language School of Alcorcón&lt;/p&gt;
+&lt;h4 id=&quot;spanish-mother-tongue&quot;&gt;Spanish (Mother tongue)&lt;/h4&gt;</content><author><name></name></author><summary type="html">English c1 Cambridge Advanced Certified French B1 Official Language School of Alcorcón Spanish (Mother tongue)</summary></entry><entry><title type="html">Work Experience</title><link href="http://localhost:4000/2020/04/10/workexperience.html" rel="alternate" type="text/html" title="Work Experience" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/10/workexperience</id><content type="html" xml:base="http://localhost:4000/2020/04/10/workexperience.html">&lt;p&gt;&lt;em&gt;Feb. 2019 - Now&lt;/em&gt;
 &lt;strong&gt;&lt;em&gt;Big Data Engineer, Stratio BD&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Design and implementation of various processes needed to give our client, a retailer, the capabilities to be able to sell online. 
@@ -86,4 +89,62 @@ Main duties:&lt;/p&gt;
 &lt;p&gt;Web applications development for Orange S.A. using:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Java, Spring Framework, Bootstrap, Oracle SQL&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Feb. 2019 - Now Big Data Engineer, Stratio BD Design and implementation of various processes needed to give our client, a retailer, the capabilities to be able to sell online. Main duties: Data ingestion with Spark (both batch and streaming). Data processing with Spark (both Datasets and Dataframes APIs). Spark process optimization. Jul. 2018 – Jan. 2019 Data Engineer, Orange España Design and implementation of a cross-functional data platform to facilitate the development of use cases, aimed at providing the customers with better and personalized services. Main duties: Normalization process in MapReduce using kotlin. Design of part of the cross-functional data platform. Sep. 2017 – Jun. 2018 Solutions Assistant as Big Data Developer, Everis Spain S.L. Software development for Orange Spain in Big Data projects, as part of one of Orange Agile teams. Main projects: Migration of the CDR and other operational processes to a big data architecture. Spark process for client related data validation and its adaptation to the TM Forum standards. Real-time ingestion of data related to business to customers communications. Main duties: Development of data ingestion and processing modules, with Hive, Spark-Scala and Sqoop. Design and implementation of monitoring processes with Spark-Scala and Solr. Implementation of Flume interceptors for real time data validation. Aug. 2016 – Aug. 2017 Solutions Assistant as Web Developer, Everis Spain S.L. Web applications development projects for Orange S.A. using technologies such as: Java, Spring Framework, Hibernate, Oracle SQL Oct. 2015 – Jul. 2016 Intern, Everis Spain S.L. Web applications development for Orange S.A. using: Java, Spring Framework, Bootstrap, Oracle SQL</summary></entry><entry><title type="html">Education</title><link href="http://localhost:4000/2020/04/09/education.html" rel="alternate" type="text/html" title="Education" /><published>2020-04-09T00:00:00+02:00</published><updated>2020-04-09T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/09/education</id><content type="html" xml:base="http://localhost:4000/2020/04/09/education.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">More Information</title><link href="http://localhost:4000/2020/04/08/more-information.html" rel="alternate" type="text/html" title="More Information" /><published>2020-04-08T00:00:00+02:00</published><updated>2020-04-08T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/08/more-information</id><content type="html" xml:base="http://localhost:4000/2020/04/08/more-information.html">&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Feb. 2019 - Now Big Data Engineer, Stratio BD Design and implementation of various processes needed to give our client, a retailer, the capabilities to be able to sell online. Main duties: Data ingestion with Spark (both batch and streaming). Data processing with Spark (both Datasets and Dataframes APIs). Spark process optimization. Jul. 2018 – Jan. 2019 Data Engineer, Orange España Design and implementation of a cross-functional data platform to facilitate the development of use cases, aimed at providing the customers with better and personalized services. Main duties: Normalization process in MapReduce using kotlin. Design of part of the cross-functional data platform. Sep. 2017 – Jun. 2018 Solutions Assistant as Big Data Developer, Everis Spain S.L. Software development for Orange Spain in Big Data projects, as part of one of Orange Agile teams. Main projects: Migration of the CDR and other operational processes to a big data architecture. Spark process for client related data validation and its adaptation to the TM Forum standards. Real-time ingestion of data related to business to customers communications. Main duties: Development of data ingestion and processing modules, with Hive, Spark-Scala and Sqoop. Design and implementation of monitoring processes with Spark-Scala and Solr. Implementation of Flume interceptors for real time data validation. Aug. 2016 – Aug. 2017 Solutions Assistant as Web Developer, Everis Spain S.L. Web applications development projects for Orange S.A. using technologies such as: Java, Spring Framework, Hibernate, Oracle SQL Oct. 2015 – Jul. 2016 Intern, Everis Spain S.L. Web applications development for Orange S.A. using: Java, Spring Framework, Bootstrap, Oracle SQL</summary></entry><entry><title type="html">Education</title><link href="http://localhost:4000/2020/04/09/education.html" rel="alternate" type="text/html" title="Education" /><published>2020-04-09T00:00:00+02:00</published><updated>2020-04-09T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/09/education</id><content type="html" xml:base="http://localhost:4000/2020/04/09/education.html">&lt;p&gt;&lt;em&gt;Apr. 2020&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;Functional Program Design in Scala, Coursera&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;More information available: &lt;a href=&quot;https://www.coursera.org/learn/progfun2&quot;&gt;https://www.coursera.org/learn/progfun2&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;March 2020&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;Big Data with Scala and Spark, Coursera&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;More information available: &lt;a href=&quot;https://www.coursera.org/learn/scala-spark-big-data&quot;&gt;https://www.coursera.org/learn/scala-spark-big-data&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Feb. 2020&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;Functional Programming Principles in Scala, Coursera&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;More information available: &lt;a href=&quot;https://www.coursera.org/learn/progfun1&quot;&gt;https://www.coursera.org/learn/progfun1&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Oct. 2018 - Feb. 2019&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;Bootcamp - Full Stack Reactive Programming, Datahack School&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This program comprises all software development phases and tools, from devops to software development and testing (including knowledge of security and cloud infrastructure). All is approached from the perspective of microservices architecture and reactive programming. 
+Some technologies covered are: Scala frameworks such as Akka, Play or Slick; devops tools such as Docker, Jenkins and Nexus; and Amazon Cloud services. 
+More information available: &lt;a href=&quot;https://www.datahack.es/formacion/bootcamp-full-stacks-developers/&quot;&gt;https://www.datahack.es/formacion/bootcamp-full-stacks-developers/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Oct. 2017 – Sep. 2018&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;Master in Advanced Analytics &amp;amp; Cognitive Intelligence, MSMK&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Some of the subjects addressed in this program include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Data Management: Data Warehouse.&lt;/li&gt;
+  &lt;li&gt;Visualization Tools such as Qlik Sense or Tableau .&lt;/li&gt;
+  &lt;li&gt;Advanced analytics and data mining.&lt;/li&gt;
+  &lt;li&gt;Big Data Architectures: Spark, Kafka, Hive, Flume, NoSQL databases…&lt;/li&gt;
+  &lt;li&gt;Cognitive applications.&lt;/li&gt;
+  &lt;li&gt;Balanced scorecard and reporting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More information available: &lt;a href=&quot;https://madridschoolofmarketing.es/masters-y-programas/master-advanced-analytics-cognitive&quot;&gt;https://madridschoolofmarketing.es/masters-y-programas/master-advanced-analytics-cognitive&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Sep. 2012 – Jul. 2016&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;Bachelor in Telecommunication Technologies and Services Engineering (BETTS)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Specialization: Telematics
+Thesis: “Design and implementation of a tool for heterogeneous data sources integration in Big Data projects”. Grade: 10.
+More information available: &lt;a href=&quot;http://www.etsit.upm.es/de/studies/bachelor-of-engineering-in-telecommunication-technologies-and-services.html&quot;&gt;http://www.etsit.upm.es/de/studies/bachelor-of-engineering-in-telecommunication-technologies-and-services.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Apr. 2020 Functional Program Design in Scala, Coursera More information available: https://www.coursera.org/learn/progfun2 March 2020 Big Data with Scala and Spark, Coursera More information available: https://www.coursera.org/learn/scala-spark-big-data Feb. 2020 Functional Programming Principles in Scala, Coursera More information available: https://www.coursera.org/learn/progfun1 Oct. 2018 - Feb. 2019 Bootcamp - Full Stack Reactive Programming, Datahack School This program comprises all software development phases and tools, from devops to software development and testing (including knowledge of security and cloud infrastructure). All is approached from the perspective of microservices architecture and reactive programming. Some technologies covered are: Scala frameworks such as Akka, Play or Slick; devops tools such as Docker, Jenkins and Nexus; and Amazon Cloud services. More information available: https://www.datahack.es/formacion/bootcamp-full-stacks-developers/ Oct. 2017 – Sep. 2018 Master in Advanced Analytics &amp;amp; Cognitive Intelligence, MSMK Some of the subjects addressed in this program include: Data Management: Data Warehouse. Visualization Tools such as Qlik Sense or Tableau . Advanced analytics and data mining. Big Data Architectures: Spark, Kafka, Hive, Flume, NoSQL databases… Cognitive applications. Balanced scorecard and reporting. More information available: https://madridschoolofmarketing.es/masters-y-programas/master-advanced-analytics-cognitive Sep. 2012 – Jul. 2016 Bachelor in Telecommunication Technologies and Services Engineering (BETTS) Specialization: Telematics Thesis: “Design and implementation of a tool for heterogeneous data sources integration in Big Data projects”. Grade: 10. More information available: http://www.etsit.upm.es/de/studies/bachelor-of-engineering-in-telecommunication-technologies-and-services.html</summary></entry><entry><title type="html">More Information</title><link href="http://localhost:4000/2020/04/08/more-information.html" rel="alternate" type="text/html" title="More Information" /><published>2020-04-08T00:00:00+02:00</published><updated>2020-04-08T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/08/more-information</id><content type="html" xml:base="http://localhost:4000/2020/04/08/more-information.html">&lt;p&gt;&lt;em&gt;2003 - 2011&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;Federated Swimmer&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;2007 – 2011&lt;/em&gt; in Club Natación Alcorcon Arena&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;2003 – 2007&lt;/em&gt; in Club Natación Las Palmas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Participation in National Championships for several years&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;2003 - 2007&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;Elemental Degree In Saxophone, Musical Conservatory In Las Palmas De Gran Canaria&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">2003 - 2011 Federated Swimmer 2007 – 2011 in Club Natación Alcorcon Arena 2003 – 2007 in Club Natación Las Palmas Participation in National Championships for several years 2003 - 2007 Elemental Degree In Saxophone, Musical Conservatory In Las Palmas De Gran Canaria</summary></entry></feed>

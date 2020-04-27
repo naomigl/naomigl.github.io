@@ -4,8 +4,13 @@ title:  "More Information"
 excerpt_separator:  <!--more-->
 ---
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+*2003 - 2011*
+***Federated Swimmer***
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- *2007 – 2011* in Club Natación Alcorcon Arena
+- *2003 – 2007* in Club Natación Las Palmas
+
+Participation in National Championships for several years
+
+*2003 - 2007*
+***Elemental Degree In Saxophone, Musical Conservatory In Las Palmas De Gran Canaria***

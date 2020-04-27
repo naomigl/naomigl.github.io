@@ -5,12 +5,11 @@ excerpt_separator:  <!--more-->
 ---
 
 ### Big Data Technologies
-* Spark, SparkSQL, Spark Streaming, Hadoop MapReduce
+* Spark, SparkSQL, Spark Streaming
 * Flume, Kafka
 * Sqoop
 * Hive, Impala
-* Solr
-* Kudu
+* Solr, Kudu
 
 ### Programming Languages
 * Scala, Java, Kotlin
