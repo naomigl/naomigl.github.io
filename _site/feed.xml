@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-15T18:41:44+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Naomi García Langa</title><subtitle>Hi! I'm Naomi and I'm a Big Data Engineer. I'm always eager to learn something new and want my work to make a positive impact on the world.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-24T17:42:58+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Naomi García Langa</title><subtitle>Hi! I'm Naomi and I'm a Big Data Engineer. I'm always eager to learn something new and want my work to make a positive impact on the world.
 Please, contact me if that sounds interesting to you!</subtitle><entry><title type="html">Skills</title><link href="http://localhost:4000/2020/04/12/skills.html" rel="alternate" type="text/html" title="Skills" /><published>2020-04-12T00:00:00+02:00</published><updated>2020-04-12T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/12/skills</id><content type="html" xml:base="http://localhost:4000/2020/04/12/skills.html">&lt;h3 id=&quot;big-data-technologies&quot;&gt;Big Data Technologies&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/img/tech/spark.svg&quot; alt=&quot;Spark&quot; /&gt;
+&lt;img src=&quot;assets/img/tech/sparkStreaming.png&quot; alt=&quot;Spark Streaming&quot; /&gt;
+&lt;img src=&quot;assets/img/tech/flume.png&quot; alt=&quot;Flume&quot; /&gt;
+&lt;img src=&quot;assets/img/tech/kafka.png&quot; alt=&quot;Kafka&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/img/tech/hive.svg&quot; alt=&quot;Hive&quot; /&gt;
+&lt;img src=&quot;assets/img/tech/impala.png&quot; alt=&quot;Impala&quot; /&gt;
+&lt;img src=&quot;assets/img/tech/solr.png&quot; alt=&quot;Solr&quot; /&gt;
+&lt;img src=&quot;assets/img/tech/kudu.png&quot; alt=&quot;Kudu&quot; /&gt;&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Spark, SparkSQL, Spark Streaming, Hadoop MapReduce&lt;/li&gt;
-  &lt;li&gt;Flume, Kafka&lt;/li&gt;
   &lt;li&gt;Sqoop&lt;/li&gt;
-  &lt;li&gt;Hive, Impala&lt;/li&gt;
-  &lt;li&gt;Solr&lt;/li&gt;
-  &lt;li&gt;Kudu&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;programming-languages&quot;&gt;Programming Languages&lt;/h3&gt;
@@ -30,7 +37,7 @@ Please, contact me if that sounds interesting to you!</subtitle><entry><title ty
   &lt;li&gt;Maven, Gradle, Sbt&lt;/li&gt;
   &lt;li&gt;Jenkins, Nexus, Git&lt;/li&gt;
   &lt;li&gt;Agile Methodologies, Scrum&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Big Data Technologies Spark, SparkSQL, Spark Streaming, Hadoop MapReduce Flume, Kafka Sqoop Hive, Impala Solr Kudu Programming Languages Scala, Java, Kotlin Frameworks Spring, Hibernate Akka, Play (academic experience) Front end CSS3, HTML5, Bootstrap, JavaScript, jQuery Other Maven, Gradle, Sbt Jenkins, Nexus, Git Agile Methodologies, Scrum</summary></entry><entry><title type="html">Languages</title><link href="http://localhost:4000/2020/04/11/languages.html" rel="alternate" type="text/html" title="Languages" /><published>2020-04-11T00:00:00+02:00</published><updated>2020-04-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/11/languages</id><content type="html" xml:base="http://localhost:4000/2020/04/11/languages.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Work Experience</title><link href="http://localhost:4000/2020/04/10/workexperience.html" rel="alternate" type="text/html" title="Work Experience" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/10/workexperience</id><content type="html" xml:base="http://localhost:4000/2020/04/10/workexperience.html">&lt;p&gt;&lt;em&gt;Feb. 2019 - Now&lt;/em&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Big Data Technologies Spark, SparkSQL, Spark Streaming, Hadoop MapReduce Sqoop Programming Languages Scala, Java, Kotlin Frameworks Spring, Hibernate Akka, Play (academic experience) Front end CSS3, HTML5, Bootstrap, JavaScript, jQuery Other Maven, Gradle, Sbt Jenkins, Nexus, Git Agile Methodologies, Scrum</summary></entry><entry><title type="html">Languages</title><link href="http://localhost:4000/2020/04/11/languages.html" rel="alternate" type="text/html" title="Languages" /><published>2020-04-11T00:00:00+02:00</published><updated>2020-04-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/11/languages</id><content type="html" xml:base="http://localhost:4000/2020/04/11/languages.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Work Experience</title><link href="http://localhost:4000/2020/04/10/workexperience.html" rel="alternate" type="text/html" title="Work Experience" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/10/workexperience</id><content type="html" xml:base="http://localhost:4000/2020/04/10/workexperience.html">&lt;p&gt;&lt;em&gt;Feb. 2019 - Now&lt;/em&gt;
 &lt;strong&gt;&lt;em&gt;Big Data Engineer, Stratio BD&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Design and implementation of various processes needed to give our client, a retailer, the capabilities to be able to sell online. 

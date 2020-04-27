@@ -423,6 +423,8 @@ button.disqus-load { margin-top: 1em; }
 
 .home #sidebar .site-title { font-size: 3.25rem; }
 
+.container img { width: 100px; display: inline-block; align-content: space-between; }
+
 /** Tablet / Desktop view **/
 @media (min-width: 49rem) { #sidebar .profile-pic { display: block; }
   #sidebar .site-title { font-size: 2.2rem; }
